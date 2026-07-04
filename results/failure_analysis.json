@@ -1,0 +1,22 @@
+{
+  "bridge": {
+    "n": 406,
+    "em": 0.0,
+    "f1": 0.0472,
+    "gold_hit_all_rate": 0.436,
+    "n_wrong": 406,
+    "wrong_due_to_retrieval": 229,
+    "wrong_due_to_generation": 177,
+    "pct_wrong_from_retrieval": 0.564
+  },
+  "comparison": {
+    "n": 94,
+    "em": 0.0,
+    "f1": 0.0969,
+    "gold_hit_all_rate": 0.734,
+    "n_wrong": 94,
+    "wrong_due_to_retrieval": 25,
+    "wrong_due_to_generation": 69,
+    "pct_wrong_from_retrieval": 0.266
+  }
+}
