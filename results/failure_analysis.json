@@ -1,22 +1,22 @@
 {
   "bridge": {
     "n": 406,
-    "em": 0.0,
-    "f1": 0.0472,
+    "em": 0.0099,
+    "f1": 0.0207,
     "gold_hit_all_rate": 0.436,
-    "n_wrong": 406,
+    "n_wrong": 402,
     "wrong_due_to_retrieval": 229,
-    "wrong_due_to_generation": 177,
-    "pct_wrong_from_retrieval": 0.564
+    "wrong_due_to_generation": 173,
+    "pct_wrong_from_retrieval": 0.5697
   },
   "comparison": {
     "n": 94,
-    "em": 0.0,
-    "f1": 0.0969,
+    "em": 0.0319,
+    "f1": 0.033,
     "gold_hit_all_rate": 0.734,
-    "n_wrong": 94,
+    "n_wrong": 91,
     "wrong_due_to_retrieval": 25,
-    "wrong_due_to_generation": 69,
-    "pct_wrong_from_retrieval": 0.266
+    "wrong_due_to_generation": 66,
+    "pct_wrong_from_retrieval": 0.2747
   }
 }

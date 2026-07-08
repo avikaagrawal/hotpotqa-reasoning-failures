@@ -1,7 +1,7 @@
 {
   "n_questions": 500,
-  "overall_em": 0.0,
-  "overall_f1": 0.0566,
+  "overall_em": 0.014,
+  "overall_f1": 0.023,
   "retrieval_recall_any_gold": 0.956,
   "retrieval_recall_all_gold": 0.492
 }
